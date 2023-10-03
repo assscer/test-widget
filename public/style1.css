@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin: 50;
+  }
+  
+  .Gif {
+    text-align: center;
+  }
+  
+  .Gif {
+    width: 100px;
+    height: 200x;
+    right: 20px;
+  }
+  
+  audio {
+    margin-top: 500px;
+    left: 10px;
+  }
+  
